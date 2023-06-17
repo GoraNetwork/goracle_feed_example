@@ -1,0 +1,23 @@
+{
+  "name": "goracle_feed_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoracleNetwork/goracle_feed_example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoracleNetwork/goracle_feed_example/issues"
+  },
+  "homepage": "https://github.com/GoracleNetwork/goracle_feed_example#readme",
+  "dependencies": {
+    "algosdk": "^2.4.0",
+    "js-sha512": "^0.8.0"
+  }
+}
